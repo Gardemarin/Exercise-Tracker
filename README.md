@@ -1,7 +1,7 @@
-**Exercise Tracker
+Exercise Tracker
 ------
 
-*** How to use
+How to use
 
 GET users's exercise log: ```GET /api/exercise/log/{userId}?[&from][&to][&limit]```
 
