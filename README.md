@@ -1,5 +1,4 @@
 # Exercise Tracker
-------
 
 ### How to use
 
